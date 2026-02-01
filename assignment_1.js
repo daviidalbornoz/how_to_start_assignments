@@ -5,3 +5,5 @@ const f_name = "David"
 
  let number = 42
  console.log(`Your number is: ${number}.`)
+
+ console.log("Yet another update.")
